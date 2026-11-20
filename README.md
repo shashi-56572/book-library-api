@@ -2,6 +2,8 @@
 
 **Live Demo:** https://book-library-api-dbbe.onrender.com (hosted on Render's free plan, so the first load after a period of inactivity can take about a minute while the server wakes up. Data added on the demo may reset when the server restarts.)
 
+> **Built with AI assistance as a starter project.** I generated the first version with an AI tool and am studying the code to understand it and extend it myself.
+
 A simple REST API built with **Node.js** and **Express** to manage a personal book library, plus a small web page that uses the API. Books are stored in a JSON file, so no database setup is needed.
 
 ## Features
@@ -57,7 +59,7 @@ npm start
 
 Open http://localhost:3000 in your browser.
 
-## What I Learned
+## What I'm Learning
 
 - Building REST routes with Express and `express.Router`
 - Reading JSON request bodies with `express.json()`
