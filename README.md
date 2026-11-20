@@ -1,5 +1,7 @@
 # Book Library API
 
+**Live Demo:** https://book-library-api-dbbe.onrender.com (hosted on Render's free plan, so the first load after a period of inactivity can take about a minute while the server wakes up. Data added on the demo may reset when the server restarts.)
+
 A simple REST API built with **Node.js** and **Express** to manage a personal book library, plus a small web page that uses the API. Books are stored in a JSON file, so no database setup is needed.
 
 ## Features
